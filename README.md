@@ -5,4 +5,9 @@
  
  #Sign-In
  
-[GitHub](https://github.com/pratap-prasoon/Auth-System/blob/master/assets/images/sign-in.png)
+![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/sign-in.png)
+
+#Sign-Up
+
+![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/sign-up.png)
+
