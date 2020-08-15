@@ -10,24 +10,24 @@
 - The password stored in the db is encrypted.
 - Google login/signup (Social authentication).
 
-Folder Structure
+#Folder Structure:
 This follows MVC (Model, View, Controller) Architecture.
-Assets: It contains all static file CSS.
-Config: It contains connection to Database, Authentication.
-Controller: It redirect the webpage according to user actions.
-Models: It contains Database Schema.
-Routes: It contains all routes.
-Views: It contins all file which render UI to browser.
+- Assets: It contains all static file CSS.
+- Config: It contains connection to Database, Authentication.
+- Controller: It redirect the webpage according to user actions.
+- Models: It contains Database Schema.
+- Routes: It contains all routes.
+- Views: It contins all file which render UI to browser.
  
 
 #Steps to install the project:
--Clone the repository
--Once cloned, go into the cloned folder and type "npm install".
--Setup the project using npm init.
--Connect to mongodb.Install the mongo db from the below site https://www.mongodb.com/download-center#community
--Give user credentials in config > passport-google-oauth2-strategy
--Then type "npm start" command to start the server.
--Go to https://localhost/8000.
+- Clone the repository
+- Once cloned, go into the cloned folder and type "npm install".
+- Setup the project using npm init.
+- Connect to mongodb.Install the mongo db from the below site https://www.mongodb.com/download-center#community
+- Give user credentials in config > passport-google-oauth2-strategy
+- Then type "npm start" command to start the server.
+- Go to https://localhost/8000.
 
  
  #Sign-In
