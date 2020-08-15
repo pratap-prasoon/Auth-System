@@ -31,12 +31,12 @@ This follows MVC (Model, View, Controller) Architecture.
 
  #Home
  
- ![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/sign-in.png)
+ ![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/homepage.png)
 
  
  #Sign-In
  
-![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/homepage.png)
+![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/sign-in.png)
 
 #Sign-Up
 
@@ -48,6 +48,6 @@ This follows MVC (Model, View, Controller) Architecture.
 
 #Change Password
 
-![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/change password.jpg)
+![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/change-password.jpg)
 
 
