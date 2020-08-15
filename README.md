@@ -29,12 +29,25 @@ This follows MVC (Model, View, Controller) Architecture.
 - Then type "npm start" command to start the server.
 - Go to https://localhost/8000.
 
+ #Home
+ 
+ ![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/sign-in.png)
+
  
  #Sign-In
  
-![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/sign-in.png)
+![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/homepage.png)
 
 #Sign-Up
 
 ![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/sign-up.png)
+
+#Profile
+
+![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/profile.jpg)
+
+#Change Password
+
+![Image](https://pratap-prasoon.github.io/Auth-System/assets/images/change password.jpg)
+
 
