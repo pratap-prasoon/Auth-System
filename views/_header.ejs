@@ -1,0 +1,18 @@
+<header>
+    
+    <div class="topright">
+        <% if (locals.user){ %>
+           
+                <a href="/users/profile">
+                    <%= user.name %> &NoBreak;
+                </a>
+            
+                <a href="/users//update">Change password</a> &nbsp;
+            
+                <a href="/users/sign-out">Log Out</a>
+               
+        <% } %>
+        </div>
+
+     
+</header>
